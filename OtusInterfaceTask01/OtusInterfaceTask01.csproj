@@ -92,6 +92,7 @@
     <Compile Include="IAlgoritm.cs" />
     <Compile Include="ISerializer.cs" />
     <Compile Include="ISorter.cs" />
+    <Compile Include="OtusAlgorithm.cs" />
     <Compile Include="OtusStreamReader.cs" />
     <Compile Include="OtusXmlSerializer.cs" />
     <Compile Include="Person.cs" />
