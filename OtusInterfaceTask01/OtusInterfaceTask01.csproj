@@ -118,22 +118,21 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Account.cs" />
-    <Compile Include="AccountService.cs" />
-    <Compile Include="IAccountService.cs" />
-    <Compile Include="IAlgoritm.cs" />
-    <Compile Include="IRepository.cs" />
-    <Compile Include="ISerializer.cs" />
-    <Compile Include="ISorter.cs" />
-    <Compile Include="OtusAlgorithm.cs" />
-    <Compile Include="OtusStreamReader.cs" />
-    <Compile Include="OtusXmlSerializer.cs" />
-    <Compile Include="Person.cs" />
-    <Compile Include="PersonSorter.cs" />
+    <Compile Include="Accounts\Account.cs" />
+    <Compile Include="Accounts\AccountService.cs" />
+    <Compile Include="Accounts\IAccountService.cs" />
+    <Compile Include="Accounts\IRepository.cs" />
+    <Compile Include="Accounts\Repository.cs" />
+    <Compile Include="Otus\IAlgoritm.cs" />
+    <Compile Include="Otus\ISerializer.cs" />
+    <Compile Include="Otus\ISorter.cs" />
+    <Compile Include="Otus\OtusAlgorithm.cs" />
+    <Compile Include="Otus\OtusStreamReader.cs" />
+    <Compile Include="Otus\OtusXmlSerializer.cs" />
+    <Compile Include="Person\Person.cs" />
+    <Compile Include="Person\PersonSorter.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Repository.cs" />
-    <Compile Include="UnitTest.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />

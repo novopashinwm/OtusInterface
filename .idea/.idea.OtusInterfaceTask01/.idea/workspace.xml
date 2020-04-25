@@ -1,227 +1,168 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="9724df77-4612-466c-94bf-fc6b876311c6" name="Default Changelist" comment="first load">
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.OtusInterfaceTask01/.idea/contentModel.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.OtusInterfaceTask01/.idea/indexLayout.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.OtusInterfaceTask01/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.OtusInterfaceTask01/.idea/projectSettingsUpdater.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.OtusInterfaceTask01/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.OtusInterfaceTask01/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.OtusInterfaceTask01/riderModule.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OtusInterfaceTask01.sln" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OtusInterfaceTask01/IAlgoritm.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OtusInterfaceTask01/ISerializer.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OtusInterfaceTask01/ISorter.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OtusInterfaceTask01/OtusInterfaceTask01.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OtusInterfaceTask01/OtusStreamReader.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OtusInterfaceTask01/OtusXmlSerializer.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OtusInterfaceTask01/Person.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OtusInterfaceTask01/PersonSorter.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OtusInterfaceTask01/Program.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OtusInterfaceTask01/Properties/AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OtusInterfaceTask01/obj/Debug/OtusInterfaceTask01.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OtusInterfaceTask01/obj/Debug/OtusInterfaceTask01.csprojAssemblyReference.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OtusInterfaceTask01/obj/Debug/TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OtusInterfaceTask01/obj/Debug/TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OtusInterfaceTask01/obj/Debug/TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OtusInterfaceTask01/packages.config" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/ExtendedXmlSerializer.3.1.3/.signature.p7s" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/ExtendedXmlSerializer.3.1.3/ExtendedXmlSerializer.3.1.3.nupkg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/ExtendedXmlSerializer.3.1.3/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/ExtendedXmlSerializer.3.1.3/Logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/ExtendedXmlSerializer.3.1.3/lib/net452/ExtendedXmlSerializer.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/ExtendedXmlSerializer.3.1.3/lib/net452/ExtendedXmlSerializer.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/ExtendedXmlSerializer.3.1.3/lib/net452/ExtendedXmlSerializer.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/ExtendedXmlSerializer.3.1.3/lib/netstandard2.0/ExtendedXmlSerializer.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/ExtendedXmlSerializer.3.1.3/lib/netstandard2.0/ExtendedXmlSerializer.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/ExtendedXmlSerializer.3.1.3/lib/netstandard2.0/ExtendedXmlSerializer.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/LightInject.6.2.0/.signature.p7s" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/LightInject.6.2.0/LightInject.6.2.0.nupkg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/LightInject.6.2.0/lib/net452/LightInject.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/LightInject.6.2.0/lib/net452/LightInject.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/LightInject.6.2.0/lib/net452/LightInject.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/LightInject.6.2.0/lib/net46/LightInject.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/LightInject.6.2.0/lib/net46/LightInject.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/LightInject.6.2.0/lib/net46/LightInject.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/LightInject.6.2.0/lib/netcoreapp2.0/LightInject.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/LightInject.6.2.0/lib/netcoreapp2.0/LightInject.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/LightInject.6.2.0/lib/netcoreapp2.0/LightInject.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/LightInject.6.2.0/lib/netstandard1.1/LightInject.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/LightInject.6.2.0/lib/netstandard1.1/LightInject.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/LightInject.6.2.0/lib/netstandard1.1/LightInject.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/LightInject.6.2.0/lib/netstandard1.3/LightInject.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/LightInject.6.2.0/lib/netstandard1.3/LightInject.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/LightInject.6.2.0/lib/netstandard1.3/LightInject.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/LightInject.6.2.0/lib/netstandard1.6/LightInject.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/LightInject.6.2.0/lib/netstandard1.6/LightInject.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/LightInject.6.2.0/lib/netstandard1.6/LightInject.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/LightInject.6.2.0/lib/netstandard2.0/LightInject.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/LightInject.6.2.0/lib/netstandard2.0/LightInject.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/LightInject.6.2.0/lib/netstandard2.0/LightInject.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/NReco.LambdaParser.1.0.11/.signature.p7s" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/NReco.LambdaParser.1.0.11/NReco.LambdaParser.1.0.11.nupkg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/NReco.LambdaParser.1.0.11/lib/net45/NReco.LambdaParser.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/NReco.LambdaParser.1.0.11/lib/net45/NReco.LambdaParser.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/NReco.LambdaParser.1.0.11/lib/netstandard1.3/NReco.LambdaParser.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/NReco.LambdaParser.1.0.11/lib/netstandard1.3/NReco.LambdaParser.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/NReco.LambdaParser.1.0.11/lib/netstandard2.0/NReco.LambdaParser.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/NReco.LambdaParser.1.0.11/lib/netstandard2.0/NReco.LambdaParser.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Sprache.2.2.0/.signature.p7s" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Sprache.2.2.0/Sprache.2.2.0.nupkg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Sprache.2.2.0/lib/net35/Sprache.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Sprache.2.2.0/lib/net35/Sprache.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Sprache.2.2.0/lib/net40/Sprache.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Sprache.2.2.0/lib/net40/Sprache.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Sprache.2.2.0/lib/net45/Sprache.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Sprache.2.2.0/lib/net45/Sprache.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Sprache.2.2.0/lib/netstandard1.0/Sprache.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Sprache.2.2.0/lib/netstandard1.0/Sprache.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Sprache.2.2.0/lib/netstandard2.0/Sprache.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Sprache.2.2.0/lib/netstandard2.0/Sprache.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Sprache.2.2.0/lib/sl5/Sprache.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Sprache.2.2.0/lib/sl5/Sprache.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/System.Buffers.4.4.0/.signature.p7s" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/System.Buffers.4.4.0/LICENSE.TXT" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/System.Buffers.4.4.0/System.Buffers.4.4.0.nupkg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/System.Buffers.4.4.0/THIRD-PARTY-NOTICES.TXT" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/System.Buffers.4.4.0/lib/netcoreapp2.0/_._" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/System.Buffers.4.4.0/lib/netstandard1.1/System.Buffers.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/System.Buffers.4.4.0/lib/netstandard1.1/System.Buffers.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/System.Buffers.4.4.0/lib/netstandard2.0/System.Buffers.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/System.Buffers.4.4.0/lib/netstandard2.0/System.Buffers.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/System.Buffers.4.4.0/ref/netcoreapp2.0/_._" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/System.Buffers.4.4.0/ref/netstandard1.1/System.Buffers.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/System.Buffers.4.4.0/ref/netstandard1.1/System.Buffers.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/System.Buffers.4.4.0/ref/netstandard2.0/System.Buffers.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/System.Buffers.4.4.0/ref/netstandard2.0/System.Buffers.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/System.Buffers.4.4.0/useSharedDesignerContext.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/System.Buffers.4.4.0/version.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/System.Collections.Immutable.1.7.0/.signature.p7s" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/System.Collections.Immutable.1.7.0/LICENSE.TXT" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/System.Collections.Immutable.1.7.0/System.Collections.Immutable.1.7.0.nupkg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/System.Collections.Immutable.1.7.0/THIRD-PARTY-NOTICES.TXT" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/System.Collections.Immutable.1.7.0/lib/netstandard1.0/System.Collections.Immutable.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/System.Collections.Immutable.1.7.0/lib/netstandard1.0/System.Collections.Immutable.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/System.Collections.Immutable.1.7.0/lib/netstandard1.3/System.Collections.Immutable.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/System.Collections.Immutable.1.7.0/lib/netstandard1.3/System.Collections.Immutable.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/System.Collections.Immutable.1.7.0/lib/netstandard2.0/System.Collections.Immutable.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/System.Collections.Immutable.1.7.0/lib/netstandard2.0/System.Collections.Immutable.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/System.Collections.Immutable.1.7.0/lib/portable-net45+win8+wp8+wpa81/System.Collections.Immutable.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/System.Collections.Immutable.1.7.0/lib/portable-net45+win8+wp8+wpa81/System.Collections.Immutable.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/System.Collections.Immutable.1.7.0/useSharedDesignerContext.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/System.Collections.Immutable.1.7.0/version.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/System.Interactive.4.0.0/.signature.p7s" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/System.Interactive.4.0.0/System.Interactive.4.0.0.nupkg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/System.Interactive.4.0.0/lib/net45/System.Interactive.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/System.Interactive.4.0.0/lib/net45/System.Interactive.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/System.Interactive.4.0.0/lib/netstandard1.0/System.Interactive.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/System.Interactive.4.0.0/lib/netstandard1.0/System.Interactive.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/System.Interactive.4.0.0/lib/netstandard2.0/System.Interactive.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/System.Interactive.4.0.0/lib/netstandard2.0/System.Interactive.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/System.Interactive.4.0.0/ref/netcoreapp2.0/System.Interactive.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/System.Interactive.4.0.0/ref/netcoreapp2.0/System.Interactive.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/System.Interactive.4.0.0/ref/netstandard1.0/System.Interactive.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/System.Interactive.4.0.0/ref/netstandard1.0/System.Interactive.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/System.Interactive.4.0.0/ref/netstandard2.1/System.Interactive.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/System.Interactive.4.0.0/ref/netstandard2.1/System.Interactive.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/System.Memory.4.5.3/.signature.p7s" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/System.Memory.4.5.3/LICENSE.TXT" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/System.Memory.4.5.3/System.Memory.4.5.3.nupkg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/System.Memory.4.5.3/THIRD-PARTY-NOTICES.TXT" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/System.Memory.4.5.3/lib/netcoreapp2.1/_._" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/System.Memory.4.5.3/lib/netstandard1.1/System.Memory.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/System.Memory.4.5.3/lib/netstandard1.1/System.Memory.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/System.Memory.4.5.3/lib/netstandard2.0/System.Memory.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/System.Memory.4.5.3/lib/netstandard2.0/System.Memory.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/System.Memory.4.5.3/ref/netcoreapp2.1/_._" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/System.Memory.4.5.3/useSharedDesignerContext.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/System.Memory.4.5.3/version.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/System.Numerics.Vectors.4.4.0/.signature.p7s" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/System.Numerics.Vectors.4.4.0/LICENSE.TXT" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/System.Numerics.Vectors.4.4.0/System.Numerics.Vectors.4.4.0.nupkg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/System.Numerics.Vectors.4.4.0/THIRD-PARTY-NOTICES.TXT" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/System.Numerics.Vectors.4.4.0/lib/MonoAndroid10/_._" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/System.Numerics.Vectors.4.4.0/lib/MonoTouch10/_._" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/System.Numerics.Vectors.4.4.0/lib/net46/System.Numerics.Vectors.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/System.Numerics.Vectors.4.4.0/lib/net46/System.Numerics.Vectors.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/System.Numerics.Vectors.4.4.0/lib/netcoreapp2.0/_._" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/System.Numerics.Vectors.4.4.0/lib/netstandard1.0/System.Numerics.Vectors.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/System.Numerics.Vectors.4.4.0/lib/netstandard1.0/System.Numerics.Vectors.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/System.Numerics.Vectors.4.4.0/lib/netstandard2.0/System.Numerics.Vectors.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/System.Numerics.Vectors.4.4.0/lib/netstandard2.0/System.Numerics.Vectors.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/System.Numerics.Vectors.4.4.0/lib/portable-net45+win8+wp8+wpa81/System.Numerics.Vectors.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/System.Numerics.Vectors.4.4.0/lib/portable-net45+win8+wp8+wpa81/System.Numerics.Vectors.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/System.Numerics.Vectors.4.4.0/lib/xamarinios10/_._" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/System.Numerics.Vectors.4.4.0/lib/xamarinmac20/_._" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/System.Numerics.Vectors.4.4.0/lib/xamarintvos10/_._" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/System.Numerics.Vectors.4.4.0/lib/xamarinwatchos10/_._" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/System.Numerics.Vectors.4.4.0/ref/MonoAndroid10/_._" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/System.Numerics.Vectors.4.4.0/ref/MonoTouch10/_._" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/System.Numerics.Vectors.4.4.0/ref/net46/System.Numerics.Vectors.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/System.Numerics.Vectors.4.4.0/ref/net46/System.Numerics.Vectors.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/System.Numerics.Vectors.4.4.0/ref/netcoreapp2.0/_._" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/System.Numerics.Vectors.4.4.0/ref/netstandard1.0/System.Numerics.Vectors.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/System.Numerics.Vectors.4.4.0/ref/netstandard1.0/System.Numerics.Vectors.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/System.Numerics.Vectors.4.4.0/ref/netstandard2.0/System.Numerics.Vectors.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/System.Numerics.Vectors.4.4.0/ref/netstandard2.0/System.Numerics.Vectors.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/System.Numerics.Vectors.4.4.0/ref/xamarinios10/_._" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/System.Numerics.Vectors.4.4.0/ref/xamarinmac20/_._" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/System.Numerics.Vectors.4.4.0/ref/xamarintvos10/_._" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/System.Numerics.Vectors.4.4.0/ref/xamarinwatchos10/_._" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/System.Numerics.Vectors.4.4.0/useSharedDesignerContext.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/System.Numerics.Vectors.4.4.0/version.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/System.Runtime.CompilerServices.Unsafe.4.7.0/.signature.p7s" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/System.Runtime.CompilerServices.Unsafe.4.7.0/LICENSE.TXT" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/System.Runtime.CompilerServices.Unsafe.4.7.0/System.Runtime.CompilerServices.Unsafe.4.7.0.nupkg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/System.Runtime.CompilerServices.Unsafe.4.7.0/THIRD-PARTY-NOTICES.TXT" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/System.Runtime.CompilerServices.Unsafe.4.7.0/lib/netcoreapp2.0/System.Runtime.CompilerServices.Unsafe.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/System.Runtime.CompilerServices.Unsafe.4.7.0/lib/netcoreapp2.0/System.Runtime.CompilerServices.Unsafe.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/System.Runtime.CompilerServices.Unsafe.4.7.0/lib/netstandard1.0/System.Runtime.CompilerServices.Unsafe.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/System.Runtime.CompilerServices.Unsafe.4.7.0/lib/netstandard1.0/System.Runtime.CompilerServices.Unsafe.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/System.Runtime.CompilerServices.Unsafe.4.7.0/lib/netstandard2.0/System.Runtime.CompilerServices.Unsafe.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/System.Runtime.CompilerServices.Unsafe.4.7.0/lib/netstandard2.0/System.Runtime.CompilerServices.Unsafe.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/System.Runtime.CompilerServices.Unsafe.4.7.0/ref/netstandard1.0/System.Runtime.CompilerServices.Unsafe.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/System.Runtime.CompilerServices.Unsafe.4.7.0/ref/netstandard1.0/System.Runtime.CompilerServices.Unsafe.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/System.Runtime.CompilerServices.Unsafe.4.7.0/ref/netstandard2.0/System.Runtime.CompilerServices.Unsafe.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/System.Runtime.CompilerServices.Unsafe.4.7.0/ref/netstandard2.0/System.Runtime.CompilerServices.Unsafe.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/System.Runtime.CompilerServices.Unsafe.4.7.0/useSharedDesignerContext.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/System.Runtime.CompilerServices.Unsafe.4.7.0/version.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/System.ValueTuple.4.5.0/.signature.p7s" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/System.ValueTuple.4.5.0/LICENSE.TXT" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/System.ValueTuple.4.5.0/System.ValueTuple.4.5.0.nupkg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/System.ValueTuple.4.5.0/THIRD-PARTY-NOTICES.TXT" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/System.ValueTuple.4.5.0/lib/MonoAndroid10/_._" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/System.ValueTuple.4.5.0/lib/MonoTouch10/_._" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/System.ValueTuple.4.5.0/lib/net461/System.ValueTuple.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/System.ValueTuple.4.5.0/lib/net461/System.ValueTuple.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/System.ValueTuple.4.5.0/lib/net47/System.ValueTuple.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/System.ValueTuple.4.5.0/lib/net47/System.ValueTuple.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/System.ValueTuple.4.5.0/lib/netcoreapp2.0/_._" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/System.ValueTuple.4.5.0/lib/netstandard1.0/System.ValueTuple.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/System.ValueTuple.4.5.0/lib/netstandard1.0/System.ValueTuple.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/System.ValueTuple.4.5.0/lib/netstandard2.0/_._" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/System.ValueTuple.4.5.0/lib/portable-net40+sl4+win8+wp8/System.ValueTuple.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/System.ValueTuple.4.5.0/lib/portable-net40+sl4+win8+wp8/System.ValueTuple.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/System.ValueTuple.4.5.0/lib/uap10.0.16299/_._" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/System.ValueTuple.4.5.0/lib/xamarinios10/_._" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/System.ValueTuple.4.5.0/lib/xamarinmac20/_._" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/System.ValueTuple.4.5.0/lib/xamarintvos10/_._" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/System.ValueTuple.4.5.0/lib/xamarinwatchos10/_._" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/System.ValueTuple.4.5.0/ref/MonoAndroid10/_._" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/System.ValueTuple.4.5.0/ref/MonoTouch10/_._" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/System.ValueTuple.4.5.0/ref/net461/System.ValueTuple.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/System.ValueTuple.4.5.0/ref/net47/System.ValueTuple.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/System.ValueTuple.4.5.0/ref/netcoreapp2.0/_._" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/System.ValueTuple.4.5.0/ref/netstandard2.0/_._" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/System.ValueTuple.4.5.0/ref/portable-net40+sl4+win8+wp8/System.ValueTuple.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/System.ValueTuple.4.5.0/ref/uap10.0.16299/_._" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/System.ValueTuple.4.5.0/ref/xamarinios10/_._" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/System.ValueTuple.4.5.0/ref/xamarinmac20/_._" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/System.ValueTuple.4.5.0/ref/xamarintvos10/_._" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/System.ValueTuple.4.5.0/ref/xamarinwatchos10/_._" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/System.ValueTuple.4.5.0/useSharedDesignerContext.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/System.ValueTuple.4.5.0/version.txt" afterDir="false" />
+    <list default="true" id="9724df77-4612-466c-94bf-fc6b876311c6" name="Default Changelist" comment="Исправление  замечаний.">
+      <change afterPath="$PROJECT_DIR$/UnitTestInterface/Properties/AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UnitTestInterface/UnitTestInterface.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UnitTestInterface/bin/Debug/Castle.Core.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UnitTestInterface/bin/Debug/Castle.Core.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UnitTestInterface/bin/Debug/ExtendedXmlSerializer.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UnitTestInterface/bin/Debug/ExtendedXmlSerializer.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UnitTestInterface/bin/Debug/ExtendedXmlSerializer.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UnitTestInterface/bin/Debug/LightInject.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UnitTestInterface/bin/Debug/LightInject.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UnitTestInterface/bin/Debug/LightInject.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UnitTestInterface/bin/Debug/Microsoft.Bcl.AsyncInterfaces.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UnitTestInterface/bin/Debug/Microsoft.Bcl.AsyncInterfaces.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UnitTestInterface/bin/Debug/Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UnitTestInterface/bin/Debug/Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UnitTestInterface/bin/Debug/Moq.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UnitTestInterface/bin/Debug/Moq.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UnitTestInterface/bin/Debug/NReco.LambdaParser.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UnitTestInterface/bin/Debug/NReco.LambdaParser.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UnitTestInterface/bin/Debug/OtusInterfaceTask01.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UnitTestInterface/bin/Debug/OtusInterfaceTask01.exe.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UnitTestInterface/bin/Debug/OtusInterfaceTask01.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UnitTestInterface/bin/Debug/Sprache.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UnitTestInterface/bin/Debug/Sprache.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UnitTestInterface/bin/Debug/System.Buffers.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UnitTestInterface/bin/Debug/System.Buffers.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UnitTestInterface/bin/Debug/System.Collections.Immutable.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UnitTestInterface/bin/Debug/System.Collections.Immutable.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UnitTestInterface/bin/Debug/System.Interactive.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UnitTestInterface/bin/Debug/System.Interactive.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UnitTestInterface/bin/Debug/System.Memory.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UnitTestInterface/bin/Debug/System.Memory.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UnitTestInterface/bin/Debug/System.Numerics.Vectors.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UnitTestInterface/bin/Debug/System.Numerics.Vectors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UnitTestInterface/bin/Debug/System.Runtime.CompilerServices.Unsafe.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UnitTestInterface/bin/Debug/System.Runtime.CompilerServices.Unsafe.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UnitTestInterface/bin/Debug/System.Text.Encodings.Web.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UnitTestInterface/bin/Debug/System.Text.Encodings.Web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UnitTestInterface/bin/Debug/System.Text.Json.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UnitTestInterface/bin/Debug/System.Text.Json.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UnitTestInterface/bin/Debug/System.Threading.Tasks.Extensions.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UnitTestInterface/bin/Debug/System.Threading.Tasks.Extensions.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UnitTestInterface/bin/Debug/System.ValueTuple.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UnitTestInterface/bin/Debug/System.ValueTuple.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UnitTestInterface/bin/Debug/UnitTestInterface.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UnitTestInterface/bin/Debug/UnitTestInterface.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UnitTestInterface/bin/Debug/nunit.framework.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UnitTestInterface/bin/Debug/nunit.framework.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UnitTestInterface/obj/Debug/TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UnitTestInterface/obj/Debug/TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UnitTestInterface/obj/Debug/TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UnitTestInterface/obj/Debug/UnitTestInterface.csproj.CopyComplete" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UnitTestInterface/obj/Debug/UnitTestInterface.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UnitTestInterface/obj/Debug/UnitTestInterface.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UnitTestInterface/obj/Debug/UnitTestInterface.csprojAssemblyReference.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UnitTestInterface/obj/Debug/UnitTestInterface.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UnitTestInterface/obj/Debug/UnitTestInterface.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UnitTestInterface/packages.config" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.OtusInterfaceTask01/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.OtusInterfaceTask01/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.OtusInterfaceTask01/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.OtusInterfaceTask01/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OtusInterfaceTask01.sln" beforeDir="false" afterPath="$PROJECT_DIR$/OtusInterfaceTask01.sln" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OtusInterfaceTask01/Account.cs" beforeDir="false" afterPath="$PROJECT_DIR$/OtusInterfaceTask01/Accounts/Account.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OtusInterfaceTask01/AccountService.cs" beforeDir="false" afterPath="$PROJECT_DIR$/OtusInterfaceTask01/Accounts/AccountService.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OtusInterfaceTask01/IAccountService.cs" beforeDir="false" afterPath="$PROJECT_DIR$/OtusInterfaceTask01/Accounts/IAccountService.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OtusInterfaceTask01/IAlgoritm.cs" beforeDir="false" afterPath="$PROJECT_DIR$/OtusInterfaceTask01/Otus/IAlgoritm.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OtusInterfaceTask01/IRepository.cs" beforeDir="false" afterPath="$PROJECT_DIR$/OtusInterfaceTask01/Accounts/IRepository.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OtusInterfaceTask01/ISerializer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/OtusInterfaceTask01/Otus/ISerializer.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OtusInterfaceTask01/ISorter.cs" beforeDir="false" afterPath="$PROJECT_DIR$/OtusInterfaceTask01/Otus/ISorter.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OtusInterfaceTask01/OtusAlgorithm.cs" beforeDir="false" afterPath="$PROJECT_DIR$/OtusInterfaceTask01/Otus/OtusAlgorithm.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OtusInterfaceTask01/OtusInterfaceTask01.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/OtusInterfaceTask01/OtusInterfaceTask01.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OtusInterfaceTask01/OtusStreamReader.cs" beforeDir="false" afterPath="$PROJECT_DIR$/OtusInterfaceTask01/Otus/OtusStreamReader.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OtusInterfaceTask01/OtusXmlSerializer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/OtusInterfaceTask01/Otus/OtusXmlSerializer.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OtusInterfaceTask01/Person.cs" beforeDir="false" afterPath="$PROJECT_DIR$/OtusInterfaceTask01/Person/Person.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OtusInterfaceTask01/PersonSorter.cs" beforeDir="false" afterPath="$PROJECT_DIR$/OtusInterfaceTask01/Person/PersonSorter.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OtusInterfaceTask01/Repository.cs" beforeDir="false" afterPath="$PROJECT_DIR$/OtusInterfaceTask01/Accounts/Repository.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OtusInterfaceTask01/UnitTest.cs" beforeDir="false" afterPath="$PROJECT_DIR$/UnitTestInterface/Tests.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OtusInterfaceTask01/obj/Debug/OtusInterfaceTask01.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/OtusInterfaceTask01/obj/Debug/OtusInterfaceTask01.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OtusInterfaceTask01/obj/Debug/OtusInterfaceTask01.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/OtusInterfaceTask01/obj/Debug/OtusInterfaceTask01.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/System.Buffers.4.4.0/.signature.p7s" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/System.Buffers.4.4.0/LICENSE.TXT" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/System.Buffers.4.4.0/System.Buffers.4.4.0.nupkg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/System.Buffers.4.4.0/THIRD-PARTY-NOTICES.TXT" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/System.Buffers.4.4.0/lib/netcoreapp2.0/_._" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/System.Buffers.4.4.0/lib/netstandard1.1/System.Buffers.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/System.Buffers.4.4.0/lib/netstandard1.1/System.Buffers.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/System.Buffers.4.4.0/lib/netstandard2.0/System.Buffers.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/System.Buffers.4.4.0/lib/netstandard2.0/System.Buffers.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/System.Buffers.4.4.0/ref/netcoreapp2.0/_._" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/System.Buffers.4.4.0/ref/netstandard1.1/System.Buffers.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/System.Buffers.4.4.0/ref/netstandard1.1/System.Buffers.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/System.Buffers.4.4.0/ref/netstandard2.0/System.Buffers.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/System.Buffers.4.4.0/ref/netstandard2.0/System.Buffers.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/System.Buffers.4.4.0/useSharedDesignerContext.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/System.Buffers.4.4.0/version.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/System.Numerics.Vectors.4.4.0/.signature.p7s" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/System.Numerics.Vectors.4.4.0/LICENSE.TXT" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/System.Numerics.Vectors.4.4.0/System.Numerics.Vectors.4.4.0.nupkg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/System.Numerics.Vectors.4.4.0/THIRD-PARTY-NOTICES.TXT" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/System.Numerics.Vectors.4.4.0/lib/MonoAndroid10/_._" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/System.Numerics.Vectors.4.4.0/lib/MonoTouch10/_._" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/System.Numerics.Vectors.4.4.0/lib/net46/System.Numerics.Vectors.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/System.Numerics.Vectors.4.4.0/lib/net46/System.Numerics.Vectors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/System.Numerics.Vectors.4.4.0/lib/netcoreapp2.0/_._" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/System.Numerics.Vectors.4.4.0/lib/netstandard1.0/System.Numerics.Vectors.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/System.Numerics.Vectors.4.4.0/lib/netstandard1.0/System.Numerics.Vectors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/System.Numerics.Vectors.4.4.0/lib/netstandard2.0/System.Numerics.Vectors.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/System.Numerics.Vectors.4.4.0/lib/netstandard2.0/System.Numerics.Vectors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/System.Numerics.Vectors.4.4.0/lib/portable-net45+win8+wp8+wpa81/System.Numerics.Vectors.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/System.Numerics.Vectors.4.4.0/lib/portable-net45+win8+wp8+wpa81/System.Numerics.Vectors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/System.Numerics.Vectors.4.4.0/lib/xamarinios10/_._" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/System.Numerics.Vectors.4.4.0/lib/xamarinmac20/_._" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/System.Numerics.Vectors.4.4.0/lib/xamarintvos10/_._" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/System.Numerics.Vectors.4.4.0/lib/xamarinwatchos10/_._" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/System.Numerics.Vectors.4.4.0/ref/MonoAndroid10/_._" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/System.Numerics.Vectors.4.4.0/ref/MonoTouch10/_._" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/System.Numerics.Vectors.4.4.0/ref/net46/System.Numerics.Vectors.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/System.Numerics.Vectors.4.4.0/ref/net46/System.Numerics.Vectors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/System.Numerics.Vectors.4.4.0/ref/netcoreapp2.0/_._" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/System.Numerics.Vectors.4.4.0/ref/netstandard1.0/System.Numerics.Vectors.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/System.Numerics.Vectors.4.4.0/ref/netstandard1.0/System.Numerics.Vectors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/System.Numerics.Vectors.4.4.0/ref/netstandard2.0/System.Numerics.Vectors.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/System.Numerics.Vectors.4.4.0/ref/netstandard2.0/System.Numerics.Vectors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/System.Numerics.Vectors.4.4.0/ref/xamarinios10/_._" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/System.Numerics.Vectors.4.4.0/ref/xamarinmac20/_._" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/System.Numerics.Vectors.4.4.0/ref/xamarintvos10/_._" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/System.Numerics.Vectors.4.4.0/ref/xamarinwatchos10/_._" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/System.Numerics.Vectors.4.4.0/useSharedDesignerContext.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/System.Numerics.Vectors.4.4.0/version.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/System.Runtime.CompilerServices.Unsafe.4.7.0/.signature.p7s" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/System.Runtime.CompilerServices.Unsafe.4.7.0/LICENSE.TXT" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/System.Runtime.CompilerServices.Unsafe.4.7.0/System.Runtime.CompilerServices.Unsafe.4.7.0.nupkg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/System.Runtime.CompilerServices.Unsafe.4.7.0/THIRD-PARTY-NOTICES.TXT" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/System.Runtime.CompilerServices.Unsafe.4.7.0/lib/netcoreapp2.0/System.Runtime.CompilerServices.Unsafe.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/System.Runtime.CompilerServices.Unsafe.4.7.0/lib/netcoreapp2.0/System.Runtime.CompilerServices.Unsafe.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/System.Runtime.CompilerServices.Unsafe.4.7.0/lib/netstandard1.0/System.Runtime.CompilerServices.Unsafe.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/System.Runtime.CompilerServices.Unsafe.4.7.0/lib/netstandard1.0/System.Runtime.CompilerServices.Unsafe.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/System.Runtime.CompilerServices.Unsafe.4.7.0/lib/netstandard2.0/System.Runtime.CompilerServices.Unsafe.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/System.Runtime.CompilerServices.Unsafe.4.7.0/lib/netstandard2.0/System.Runtime.CompilerServices.Unsafe.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/System.Runtime.CompilerServices.Unsafe.4.7.0/ref/netstandard1.0/System.Runtime.CompilerServices.Unsafe.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/System.Runtime.CompilerServices.Unsafe.4.7.0/ref/netstandard1.0/System.Runtime.CompilerServices.Unsafe.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/System.Runtime.CompilerServices.Unsafe.4.7.0/ref/netstandard2.0/System.Runtime.CompilerServices.Unsafe.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/System.Runtime.CompilerServices.Unsafe.4.7.0/ref/netstandard2.0/System.Runtime.CompilerServices.Unsafe.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/System.Runtime.CompilerServices.Unsafe.4.7.0/useSharedDesignerContext.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/System.Runtime.CompilerServices.Unsafe.4.7.0/version.txt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -232,15 +173,24 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/OtusInterfaceTask01/IAlgoritm.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/OtusInterfaceTask01/ISerializer.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/OtusInterfaceTask01/OtusXmlSerializer.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/OtusInterfaceTask01/ISorter.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/OtusInterfaceTask01/Person.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/OtusInterfaceTask01/OtusStreamReader.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/OtusInterfaceTask01/PersonSorter.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/OtusInterfaceTask01/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/OtusInterfaceTask01/Otus/IAlgoritm.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/OtusInterfaceTask01/Otus/ISerializer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/UnitTestInterface/Tests.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/OtusInterfaceTask01/packages.config" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/OtusInterfaceTask01/Otus/OtusXmlSerializer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/OtusInterfaceTask01/Otus/ISorter.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/OtusInterfaceTask01/Person/Person.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/OtusInterfaceTask01/Otus/OtusStreamReader.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/OtusInterfaceTask01/Person/PersonSorter.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/OtusInterfaceTask01/Properties/AssemblyInfo.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/OtusInterfaceTask01/Accounts/AccountService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/497E7C03-5433-4AE6-B257-9B219192BCF0/e0/77f1a455/WorkItem.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/OtusInterfaceTask01/Accounts/IAccountService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/OtusInterfaceTask01/Accounts/IRepository.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/OtusInterfaceTask01/Accounts/Repository.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/OtusInterfaceTask01/Otus/OtusAlgorithm.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/OtusInterfaceTask01/Accounts/Account.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/OtusInterfaceTask01/Program.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -248,11 +198,23 @@
         <option value="$PROJECT_DIR$/OtusInterfaceTask01/Program.cs" />
         <option value="$PROJECT_DIR$/OtusInterfaceTask01/ISerializer.cs" />
         <option value="$PROJECT_DIR$/OtusInterfaceTask01/OtusXmlSerializer.cs" />
-        <option value="$PROJECT_DIR$/OtusInterfaceTask01/OtusStreamReader.cs" />
         <option value="$PROJECT_DIR$/OtusInterfaceTask01/ISorter.cs" />
         <option value="$PROJECT_DIR$/OtusInterfaceTask01/PersonSorter.cs" />
         <option value="$PROJECT_DIR$/OtusInterfaceTask01/IAlgoritm.cs" />
         <option value="$PROJECT_DIR$/OtusInterfaceTask01/Person.cs" />
+        <option value="$PROJECT_DIR$/OtusInterfaceTask01/OtusAlgorithm.cs" />
+        <option value="$PROJECT_DIR$/OtusInterfaceTask01/IRepository.cs" />
+        <option value="$PROJECT_DIR$/OtusInterfaceTask01/IAccountService.cs" />
+        <option value="$PROJECT_DIR$/OtusInterfaceTask01/Account.cs" />
+        <option value="$PROJECT_DIR$/OtusInterfaceTask01/Repository.cs" />
+        <option value="$PROJECT_DIR$/OtusInterfaceTask01/AccountService.cs" />
+        <option value="$PROJECT_DIR$/OtusInterfaceTask01/UnitTest.cs" />
+        <option value="$PROJECT_DIR$/OtusInterfaceTask01/OtusStreamReader.cs" />
+        <option value="$PROJECT_DIR$/OtusInterfaceTask01/Accounts/IRepository.cs" />
+        <option value="$PROJECT_DIR$/OtusInterfaceTask01/Accounts/AccountService.cs" />
+        <option value="$PROJECT_DIR$/UnitTestInterface/Tests.cs" />
+        <option value="$PROJECT_DIR$/OtusInterfaceTask01/Otus/IAlgoritm.cs" />
+        <option value="$PROJECT_DIR$/OtusInterfaceTask01/Otus/OtusXmlSerializer.cs" />
       </list>
     </option>
   </component>
@@ -263,13 +225,15 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DebuggerViewTab_PTCS_FirstProportionKey" value="0.3498452" />
+    <property name="DebuggerViewTab_PTCS_LastProportionKey" value="0.3003096" />
     <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
     <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected=".NET Project.Default">
     <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
@@ -300,17 +264,167 @@
       <option name="presentableId" value="Default" />
       <updated>1586690411887</updated>
       <workItem from="1586690414710" duration="6252000" />
-      <workItem from="1587575746958" duration="1411000" />
+      <workItem from="1587575746958" duration="2131000" />
+      <workItem from="1587624686722" duration="320000" />
+      <workItem from="1587647403014" duration="1549000" />
+      <workItem from="1587788508991" duration="2795000" />
+      <workItem from="1587816020847" duration="2738000" />
+      <workItem from="1587828560443" duration="967000" />
     </task>
+    <task id="LOCAL-00001" summary="first load">
+      <created>1587579621656</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1587579621656</updated>
+    </task>
+    <task id="LOCAL-00002" summary="first load">
+      <created>1587579659058</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1587579659058</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Добавил реализацию алгоритма.">
+      <created>1587660210487</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1587660210487</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Исправление  замечаний.">
+      <created>1587820238275</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1587820238275</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="first load" />
-    <option name="LAST_COMMIT_MESSAGE" value="first load" />
+    <MESSAGE value="Добавил реализацию алгоритма." />
+    <MESSAGE value="Исправление  замечаний." />
+    <option name="LAST_COMMIT_MESSAGE" value="Исправление  замечаний." />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1323" height="311" key="GridCell.Tab.0.bottom" timestamp="1587829223828">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="311" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1587829223828" />
+    <state width="1323" height="311" key="GridCell.Tab.0.center" timestamp="1587829223827">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="311" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1587829223827" />
+    <state width="1323" height="311" key="GridCell.Tab.0.left" timestamp="1587829223826">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="311" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1587829223826" />
+    <state width="1323" height="311" key="GridCell.Tab.0.right" timestamp="1587829223828">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="311" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1587829223828" />
+    <state width="1323" height="311" key="GridCell.Tab.1.bottom" timestamp="1587829223829">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="311" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1587829223829" />
+    <state width="1323" height="311" key="GridCell.Tab.1.center" timestamp="1587829223828">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="311" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1587829223828" />
+    <state width="1323" height="311" key="GridCell.Tab.1.left" timestamp="1587829223828">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="311" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1587829223828" />
+    <state width="1323" height="311" key="GridCell.Tab.1.right" timestamp="1587829223828">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="311" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1587829223828" />
+    <state width="1323" height="311" key="GridCell.Tab.2.bottom" timestamp="1587829223829">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="311" key="GridCell.Tab.2.bottom/0.0.1366.728@0.0.1366.728" timestamp="1587829223829" />
+    <state width="1323" height="311" key="GridCell.Tab.2.center" timestamp="1587829223829">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="311" key="GridCell.Tab.2.center/0.0.1366.728@0.0.1366.728" timestamp="1587829223829" />
+    <state width="1323" height="311" key="GridCell.Tab.2.left" timestamp="1587829223829">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="311" key="GridCell.Tab.2.left/0.0.1366.728@0.0.1366.728" timestamp="1587829223829" />
+    <state width="1323" height="311" key="GridCell.Tab.2.right" timestamp="1587829223829">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="311" key="GridCell.Tab.2.right/0.0.1366.728@0.0.1366.728" timestamp="1587829223829" />
+    <state width="1323" height="311" key="GridCell.Tab.3.bottom" timestamp="1587829223831">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="311" key="GridCell.Tab.3.bottom/0.0.1366.728@0.0.1366.728" timestamp="1587829223831" />
+    <state width="1323" height="311" key="GridCell.Tab.3.center" timestamp="1587829223830">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="311" key="GridCell.Tab.3.center/0.0.1366.728@0.0.1366.728" timestamp="1587829223830" />
+    <state width="1323" height="311" key="GridCell.Tab.3.left" timestamp="1587829223830">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="311" key="GridCell.Tab.3.left/0.0.1366.728@0.0.1366.728" timestamp="1587829223830" />
+    <state width="1323" height="311" key="GridCell.Tab.3.right" timestamp="1587829223830">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="311" key="GridCell.Tab.3.right/0.0.1366.728@0.0.1366.728" timestamp="1587829223830" />
+    <state width="1323" height="311" key="GridCell.Tab.4.bottom" timestamp="1587829223831">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="311" key="GridCell.Tab.4.bottom/0.0.1366.728@0.0.1366.728" timestamp="1587829223831" />
+    <state width="1323" height="311" key="GridCell.Tab.4.center" timestamp="1587829223831">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="311" key="GridCell.Tab.4.center/0.0.1366.728@0.0.1366.728" timestamp="1587829223831" />
+    <state width="1323" height="311" key="GridCell.Tab.4.left" timestamp="1587829223831">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="311" key="GridCell.Tab.4.left/0.0.1366.728@0.0.1366.728" timestamp="1587829223831" />
+    <state width="1323" height="311" key="GridCell.Tab.4.right" timestamp="1587829223831">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="311" key="GridCell.Tab.4.right/0.0.1366.728@0.0.1366.728" timestamp="1587829223831" />
+    <state x="550" y="154" key="Rider.ProjectTemplateDialog.Size" timestamp="1587828976367">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="550" y="154" key="Rider.ProjectTemplateDialog.Size/0.0.1366.728@0.0.1366.728" timestamp="1587828976367" />
+    <state x="787" y="85" key="RiderGenerateDialog" timestamp="1587818873359">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="787" y="85" key="RiderGenerateDialog/0.0.1366.728@0.0.1366.728" timestamp="1587818873359" />
+    <state x="806" y="132" key="RollbackChangesDialog" timestamp="1587819427552">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="806" y="132" key="RollbackChangesDialog/0.0.1366.728@0.0.1366.728" timestamp="1587819427552" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1587820240789">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1587820240789" />
+    <state x="484" y="270" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1587579374924">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="484" y="270" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1366.728@0.0.1366.728" timestamp="1587579374924" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -319,6 +433,19 @@
           <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
           <option name="timeStamp" value="1" />
         </breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/UnitTestInterface/Tests.cs</url>
+          <line>14</line>
+          <properties documentPath="$PROJECT_DIR$/UnitTestInterface/Tests.cs" initialLine="14">
+            <startOffsets>
+              <option value="219" />
+            </startOffsets>
+            <endOffsets>
+              <option value="263" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
