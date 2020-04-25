@@ -7,8 +7,8 @@ namespace OtusInterfaceTask01
 {
     public class OtusStreamReader<T>: IEnumerable<T>, IDisposable
     {
-        private Stream _stream;
-        private ISerializer<T> serializer;
+        private readonly Stream _stream;
+        private readonly ISerializer<T> serializer;
         
         public OtusStreamReader(Stream stream, ISerializer<T> serializer)
         {
@@ -33,8 +33,6 @@ namespace OtusInterfaceTask01
         public void Dispose()
         {
             _stream.Close();
-            _stream = null;
-            serializer = null;
         }
     }
 }
