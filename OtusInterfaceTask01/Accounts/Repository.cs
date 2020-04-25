@@ -13,7 +13,7 @@ namespace OtusInterfaceTask01
         {
             using (StreamReader sr = new StreamReader(file))
             {
-                while (sr.EndOfStream != null)
+                while (sr.Peek() != -1)
                 {
                     var acc = JsonSerializer.Deserialize<Account>(sr.ReadLine());
                     if (acc != null)
